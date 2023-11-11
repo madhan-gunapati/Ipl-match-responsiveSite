@@ -4,8 +4,10 @@ const HomePage = ()=><div>
         <div class='row'>
         <img class=' col-xs-12 col-md-6' src='https://assets.ccbp.in/frontend/react-js/rcb-img.png' alt="RCB-image" />
         <img class='col-xs-12 col-md-6' src='https://assets.ccbp.in/frontend/react-js/csk-img.png' alt='CSK-image' />
+    
         </div>
     </div>
+    <p>Editing this file to check changes in vercel </P>
 </div>
 
 export default HomePage
